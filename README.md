@@ -4,4 +4,4 @@ This library was written to simplify bitmap graphics programming on the [Picocom
 
 This code is an adaptation of the vga_graphics library written by [V. Hunter Adams from Cornell University](https://github.com/vha3/Hunter-Adams-RP2040-Demos/tree/master/VGA_Graphics/VGA_Graphics_Primitives), for his excellent RP2040 microcontroller programming course.
 
-<img src="" width="200px"/>
+<img src="bitmap_graphics_demo.jpg" width="400px"/>
