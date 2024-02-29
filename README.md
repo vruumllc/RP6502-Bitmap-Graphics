@@ -1,4 +1,4 @@
-# RP6502-Bitmap_Graphics
+# RP6502-Bitmap-Graphics
 
 This library was written to simplify bitmap graphics programming on the [Picocomputer 6502](https://picocomputer.github.io/).
 
